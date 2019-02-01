@@ -3,4 +3,4 @@ Just another repository
 
 Hi Humans!
 
-Chang the world, help another people.
+Change the world, help other people.
